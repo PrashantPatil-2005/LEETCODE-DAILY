@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0283-move-zeroes) |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
