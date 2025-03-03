@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0162-find-peak-element) |
@@ -47,5 +48,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0152-maximum-product-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
