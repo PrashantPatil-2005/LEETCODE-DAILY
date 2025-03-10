@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0152-maximum-product-subarray) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0268-missing-number) |
 ## Binary Search
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/PrashantPatil-2005/LEETCODE-DAILY/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
